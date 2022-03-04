@@ -1,0 +1,14 @@
+*{
+    background-color: rgb(186, 190, 190);
+
+}
+a.boton{
+    border:3px solid #000102;
+    padding: 5px;
+    background-color: #627a7e;
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Helvenica',sans-serif;
+    border-radius: 50px;
+}
